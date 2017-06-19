@@ -20,7 +20,7 @@ function init()
 	var AppleImage = new Image();
 	AppleImage.onload = function ()
 	{ AppleReady = true; };
-	AppleImage.src = "Pictures/Apple.png";
+	AppleImage.src = "Pictures/apple.png";
 	//==========================================================World Gradients Colour
 	var Outline=["rgb(80, 30, 0)","rgb(8, 90, 5)","rgb(0, 255, 255)","rgb(0, 255, 255)","rgb(0, 255, 255)","rgb(0, 255, 255)","rgb(0, 255, 255)","rgb(0, 255, 255)","rgb(0, 255, 255)","rgb(0, 255, 255)"] 
 	var Inside=["rgb(155, 80, 50)","rgb(100, 180, 55)","rgb(100, 190, 210)","rgb(100, 190, 220)","rgb(100, 190, 230)","rgb(100, 190, 240)","rgb(100, 190, 250)","rgb(100, 190, 255)","rgb(100, 190, 255)","rgb(100, 190, 255)"]
