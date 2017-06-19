@@ -1,2 +1,2 @@
 # IsoSnake
-Isometric Snake Project
+Isometric Snake project coded entirely using HTML and Javascript
