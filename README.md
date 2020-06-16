@@ -1,2 +1,2 @@
 # IsoSnake
-3D Isometric Snake game developed using Unity3D
+Fake 3D Isometric Snake project developed entirely using HTML and Javascript
